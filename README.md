@@ -43,6 +43,9 @@ mais également permettre à leurs clients de disposer de leurs informations per
     * file_notarget.html : fichier html compte-rendu data drift, data quality, et data stability
     * score_target_drift.html : analyse Prediction Drift
     
-### Liens vers repos Github reliés à Heroku :
+### Liens vers repos Github reliés à Heroku et lien vers l'application hébergée sur Heroku :
 - API flask : https://github.com/agnesR23/OC_Projet7_API
 - Dashboard streamlit : https://github.com/agnesR23/OC_Projet7_Dashboard
+- https://oc-p7-dashboard-ba539a450dd7.herokuapp.com
+
+
