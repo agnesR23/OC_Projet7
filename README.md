@@ -39,7 +39,10 @@ mais également permettre à leurs clients de disposer de leurs informations per
     * Logo.png : logo de la société
     
 - Dans le dossier DATA DRIFT evidently :
-    * Projet7_datadrift_notarget_bon.ipynb : notebook d'étude du data drift
     * application_train_data_and_target_drift.html : fichier html compte-rendu datadrift
     * file_notarget.html : fichier html compte-rendu data drift, data quality, et data stability
+    * score_target_drift.html : analyse Prediction Drift
     
+### Liens vers repos Github reliés à Heroku :
+- API flask : https://github.com/agnesR23/OC_Projet7_API
+- Dashboard streamlit : https://github.com/agnesR23/OC_Projet7_Dashboard
