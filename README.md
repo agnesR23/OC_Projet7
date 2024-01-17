@@ -19,6 +19,7 @@ mais également permettre à leurs clients de disposer de leurs informations per
 - DataDrift evidently
 - API flask
 - Dashboard dockerisé Streamlit avec prise en compte des utilisateurs en situation de handicap pour les textes et graphiques
+- Tests unitaires automatisés avec Pytest
 - Déploiement cloud automatisé à partir de GitHub avec Heroku
 
 
